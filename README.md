@@ -19,12 +19,21 @@ This experiment involves creating an AWS account, configuring security settings 
 Set Permissions for IAM User
  ### Steps 7:
  Review and Create IAM User
-## COMMANDS
-
+ 
 ## OUTPUT
 ### REG NUMBER: 212222100058
 ### NAME: E VARSHA SHARON
- 
+
+ ![image](https://github.com/user-attachments/assets/51a59e6e-9281-4003-9459-ed162b51bc67)
+
+ #### Root User:
+
+![image](https://github.com/user-attachments/assets/2299d133-0313-43f8-8860-bc5ed9a46953)
+
+ ![image](https://github.com/user-attachments/assets/95bb620c-8a6f-4a72-b01b-a10f3559f2ca)
+
+#### IAM User:
+
 ## RESULT
  
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
